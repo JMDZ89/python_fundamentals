@@ -1,0 +1,1 @@
+print("good morning, good evening and good night")
